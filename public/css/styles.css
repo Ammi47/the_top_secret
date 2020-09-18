@@ -11,6 +11,10 @@ body {
 .secret-text {
   text-align: center;
   font-size: 2rem;
+  border-radius: 15px;
   color: #fff;
   background-color: #000;
+}
+.fas{
+  color: dodgerblue;
 }
